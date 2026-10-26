@@ -37,7 +37,7 @@ CQU_mobile_robot_course/
 
 ```bash
 # 克隆仓库
-git clone --recurse-submodules https://github.com/MrDynimate/CQU_mobile_robot_course.git
+git clone --recurse-submodules https://github.com/CV4RA/QLU-course.git
 cd CQU_mobile_robot_course
 
 # 构建作业3（example）
